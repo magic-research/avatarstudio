@@ -80,8 +80,8 @@
 
 <!-- ## ⚒️ Requirements
 * We recommend Linux for performance and compatibility reasons.
-* 1 high-end NVIDIA GPUs. We have done all testing and development using V100 GPUs.
-* Install `Python >= 3.8` and `PyTorch >= 1.12`. We have tested on `torch1.12.1+cu113` and `torch2.0.0+cu118`, but other versions should also work fine.
+* 1 high-end NVIDIA GPU. We have done all testing and development using V100 GPUs.
+* Install `Python >= 3.8` and `PyTorch >= 1.12`. We have tested on `torch1.12.1+cu113, but other versions should also work fine.
 * (Optional, Recommended) Install ninja to speed up the compilation of CUDA extensions:```pip install ninja```
 * Install dependencies: ```pip install -r requirements.txt ```
 ## 🏃‍♂️ Getting Started
