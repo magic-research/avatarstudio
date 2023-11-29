@@ -28,18 +28,18 @@
     </tr>
     <tr>
     <td>
-      <img src="assets/static/gen_v0.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/a3cd9b3d-55d0-438b-ae03-6f850f3d7eea">
     </td>
     <td>
-      <img src="assets/static/gen_v1.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/4f1f4780-ff2c-4440-82a9-bb0aafb0056b">
     </td>
     </tr>
     <tr>
     <td>
-      <img src="assets/static/gen_v2.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/b6192eec-d41a-45c9-ba71-6b496a26ce62">
     </td>
     <td>
-      <img src="assets/static/gen_v3.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/501f30ad-43f4-4075-b884-7f24abb90e88">
     </td>
     </tr>
     <tr>
@@ -47,27 +47,27 @@
     </tr>
     <tr>
     <td>
-      <img src="assets/static/sumiao.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/9ebc8aca-69a1-4a73-8fd3-168523e5147a">
     </td>
     <td>
-      <img src="assets/static/fireman.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/48223a1f-15fe-4d87-8a15-7b42c1efe3e7">
     </td>
     </tr>
     <tr>
     <td>
-      <img src="assets/static/shuimo.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/a0c4a4b9-65e8-4023-aaf5-d7486d48693a">
     </td>
     <td>
-      <img src="assets/static/wood.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/7602a373-9f87-43fc-a771-eac465a16649">
     </td>
     </tr>
     <td align="center" colspan="2"><b>Multimodal Avatar Animation</b></td>
     <tr>
     <td>
-      <img src="assets/static/text_driven_1.gif"">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/63957228-971f-4c6b-91fc-a49cf83c5861">
     </td>
     <td>
-      <img src="assets/static/video_driven_1.gif">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/4d2bdfa7-e6ef-4c50-9a60-64097eab3eec">
     </td>
     </tr>
   </table>
@@ -122,7 +122,7 @@ If you find our work useful, please consider citing:
 ```latex
 @inproceedings{zhang2023avatarstudio,
     title={AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text},
-    author={Zhang, Jianfeng and Zhang, Xuanmeng and Zhang, Huichao and Liew, Junhao and Zhang, Chenxu and Yang, Yi and Feng, Jiashi},
+    author={Zhang, Jianfeng and Zhang, Xuanmeng and Zhang, Huichao and Liew, Jun Hao and Zhang, Chenxu and Yang, Yi and Feng, Jiashi},
     booktitle={arXiv},
     year={2023}
 }
