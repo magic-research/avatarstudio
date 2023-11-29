@@ -6,7 +6,7 @@
     ·
     <a href="https://scholar.google.com.sg/citations?user=8gm-CYYAAAAJ&hl=en"><strong>Xuanmeng Zhang*</strong></a>
     ·
-    <a href="mailto:zhanghuichao.hc@bytedance.com"><strong>Huichao Zhang</strong></a>
+    <a href="https://scholar.google.com/citations?user=ZfUJGskAAAAJ&hl=zh-CN/"><strong>Huichao Zhang</strong></a>
     ·
     <a href="https://scholar.google.com.sg/citations?user=8gm-CYYAAAAJ&hl=en"><strong>Jun Hao Liew</strong></a>
     ·
