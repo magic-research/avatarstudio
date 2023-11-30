@@ -18,7 +18,7 @@
     <br>
     <br>
         <a href="assets/preprint/AvatarStudio.pdf"><img src='https://img.shields.io/badge/Paper-AvatarStudio-red' alt='Paper PDF'></a>
-        <a href=""><img src='https://img.shields.io/badge/arXiv-AvatarStudio-blue' alt='Paper PDF'></a>
+        <a href="https://arxiv.org/abs/2311.17917"><img src='https://img.shields.io/badge/arXiv-AvatarStudio-blue' alt='Paper PDF'></a>
         <a href='http://jeff95.me/projects/avatarstudio.html'><img src='https://img.shields.io/badge/Project_Page-AvatarStudio-green' alt='Project Page'></a>
   </p>
   
