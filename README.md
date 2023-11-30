@@ -39,7 +39,7 @@
       <img src="https://github.com/magic-research/avatarstudio/assets/25397555/b6192eec-d41a-45c9-ba71-6b496a26ce62">
     </td>
     <td>
-      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/501f30ad-43f4-4075-b884-7f24abb90e88">
+      <img src="https://github.com/magic-research/avatarstudio/assets/25397555/4aee3b7b-0ba2-4787-91b8-911ddd9696f8">
     </td>
     </tr>
     <tr>
